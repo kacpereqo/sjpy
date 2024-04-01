@@ -3,9 +3,9 @@ from setuptools import find_packages, setup
 setup(
 name='mypackage',
 version='0.1.0',
-author='Your Name',
-author_email='your.email@example.com',
-description='A short description of your package',
+author='Kacper Remzak',
+author_email='remzak.k@gmail.com',
+description='Polish dictionary API for python',
 packages=find_packages(),
 classifiers=[
 'Programming Language :: Python :: 3',
