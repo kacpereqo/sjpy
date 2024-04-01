@@ -1,0 +1,4 @@
+.env
+.pypirc
+/dist
+/mypackage.egg-info

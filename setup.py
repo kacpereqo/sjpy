@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-name='mypackage',
+name='sjpy',
 version='0.1.0',
 author='Kacper Remzak',
 author_email='remzak.k@gmail.com',
